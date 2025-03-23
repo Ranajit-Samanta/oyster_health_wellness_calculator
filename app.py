@@ -244,7 +244,7 @@ with col1:
         unsafe_allow_html=True,
     )
     st.write(
-        "<h5 style='color: black;'>Coastal Protection and Shoreline Stabilization: </h5>",
+        "<h5 style='color: black;'>3. Coastal Protection and Shoreline Stabilization: </h5>",
         unsafe_allow_html=True,
     )
     st.write(
