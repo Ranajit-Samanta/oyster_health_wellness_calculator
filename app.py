@@ -197,7 +197,7 @@ with col2:
 
 col1,col2,col3=st.columns([1,1,1])
 with col1:
-    st.image("WhatsApp Image 2025-03-22 at 2.27.17 PM.jpeg ", width=350)
+    st.image("WhatsApp Image 2025-03-22 at 2.27.17 PM.jpeg", width=350)
 with col2:
     st.image("WhatsApp Image 2025-03-24 at 12.23.05 AM (1).jpeg",width=350)
 
