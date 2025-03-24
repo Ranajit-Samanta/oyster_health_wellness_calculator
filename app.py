@@ -126,7 +126,7 @@ st.write(f"""
     align-items: center; justify-content: center; gap: 18px;'>
         <img src="data:image/png;base64,{image_base64}" alt="Logo" 
         style="width:100px; height:auto;border-radius:50px">
-        <h1 style='margin: 0; font-size: 42px;color: white;'>OYSTER HEATH & WELLNESS CALCULATOR</h1>
+        <h1 style='margin: 0; font-size: 38px;color: white;'>OYSTER HEATH & WELLNESS CALCULATOR</h1>
     </div>
 """, unsafe_allow_html=True)
 
